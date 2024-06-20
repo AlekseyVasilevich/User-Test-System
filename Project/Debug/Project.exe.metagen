@@ -1,0 +1,44 @@
+  Project.admin.resources - Embedded, ContainedInManifestFile, 
+  Project.autohorization.resources - Embedded, ContainedInManifestFile, 
+  Project.student.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project.admin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 min : Public
+    Int32 sec : Public
+  Methods:
+    init(): PrivateScope, Public, HideBySig
+    save(testing*): PrivateScope, Public, HideBySig
+    createelement(Tdata): PrivateScope, Public, HideBySig
+    addToEnd(testing*): PrivateScope, Public, HideBySig
+    readFromFile(): PrivateScope, Public, HideBySig
+    displayElement(RadioButton[], testing*): PrivateScope, Public, HideBySig
+    next(testing*, testing*): PrivateScope, Public, HideBySig
+    prev(testing*, testing*): PrivateScope, Public, HideBySig
+    deleteCurrentElement(testing*): PrivateScope, Public, HideBySig
+    clearRb(RadioButton[]): PrivateScope, Public, HideBySig
+    MinAndSec(Int32*, Int32*): PrivateScope, Public, HideBySig
+    writeinformation(String, Int32): PrivateScope, Public, HideBySig
+    randAnswer(Int32*, Int32, Int32*): PrivateScope, Public, HideBySig
+Class Project.autohorization: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

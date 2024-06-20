@@ -1,0 +1,14 @@
+D:\дз\курсовий проект\Project\Debug\Project.vcxprojAssemblyReference.cache
+D:\дз\курсовий проект\Project\Debug\Project.exe
+D:\дз\курсовий проект\Project\Debug\Project.pdb
+D:\дз\курсовий проект\Project\Debug\Project.autohorization.resources
+D:\дз\курсовий проект\Project\Debug\Project.vcxproj.GenerateResource.cache
+D:\дз\курсовий проект\Project\Debug\Project.student.resources
+D:\дз\курсовий проект\Project\Debug\Project.admin.resources
+D:\дз\курсовий проект\7\Project\Debug\Project.vcxprojAssemblyReference.cache
+D:\дз\курсовий проект\7\Project\Debug\Project.admin.resources
+D:\дз\курсовий проект\7\Project\Debug\Project.autohorization.resources
+D:\дз\курсовий проект\7\Project\Debug\Project.student.resources
+D:\дз\курсовий проект\7\Project\Debug\Project.vcxproj.GenerateResource.cache
+D:\дз\курсовий проект\7\Project\Debug\Project.exe
+D:\дз\курсовий проект\7\Project\Debug\Project.pdb
